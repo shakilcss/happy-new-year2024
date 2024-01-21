@@ -89,7 +89,7 @@ header .container1 {
 #mp-invitation {
     display: flex;
     height: 600px; 
-    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('/images/Vectorrr.png');
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Vectorrr.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -514,7 +514,7 @@ header .container1 {
 }
 
 hr.line1 {
-    border-top: 1px dashed #ffffffrgba(255, 255, 255, 0.15);
+    border-bottom: 1px solid #ffffffrgba(255, 255, 255, 0.15);
     width: 1170px;
     height: 1px;
     margin-top: 50px;
@@ -570,7 +570,7 @@ hr.line1 {
 }
 
 hr.line2 {
-    border-top: 1px dashed #ffffffrgba(255, 255, 255, 0.15);
+    border-bottom: 1px solid #ffffffrgba(255, 255, 255, 0.15);
     width: 1170px;
     height: 1px;
     margin-top: 50px;
@@ -595,4 +595,3 @@ hr.line2 {
     padding-left: 695px;
     margin-left: 85px;
 }
-
